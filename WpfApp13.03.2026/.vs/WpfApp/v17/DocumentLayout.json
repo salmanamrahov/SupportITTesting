@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AmrahovSalman\\SupportITTesting\\WpfApp13.03.2026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD24D8E-42BA-45F1-BFDE-3FB8C191098F}|WpfApp\\WpfApp.csproj|d:\\amrahovsalman\\supportittesting\\wpfapp13.03.2026\\wpfapp\\authservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD24D8E-42BA-45F1-BFDE-3FB8C191098F}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\authservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD24D8E-42BA-45F1-BFDE-3FB8C191098F}|WpfApp\\WpfApp.csproj|D:\\AmrahovSalman\\SupportITTesting\\WpfApp13.03.2026\\wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BFD24D8E-42BA-45F1-BFDE-3FB8C191098F}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD24D8E-42BA-45F1-BFDE-3FB8C191098F}|WpfApp\\WpfApp.csproj|D:\\AmrahovSalman\\SupportITTesting\\WpfApp13.03.2026\\wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD24D8E-42BA-45F1-BFDE-3FB8C191098F}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD24D8E-42BA-45F1-BFDE-3FB8C191098F}|WpfApp\\WpfApp.csproj|D:\\AmrahovSalman\\SupportITTesting\\WpfApp13.03.2026\\wpfapp\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD24D8E-42BA-45F1-BFDE-3FB8C191098F}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthServiceTests.cs",
+              "DocumentMoniker": "D:\\AmrahovSalman\\SupportITTesting\\WpfApp13.03.2026\\WpfApp\\AuthServiceTests.cs",
+              "RelativeDocumentMoniker": "WpfApp\\AuthServiceTests.cs",
+              "ToolTip": "D:\\AmrahovSalman\\SupportITTesting\\WpfApp13.03.2026\\WpfApp\\AuthServiceTests.cs",
+              "RelativeToolTip": "WpfApp\\AuthServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T07:52:08.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\AmrahovSalman\\SupportITTesting\\WpfApp13.03.2026\\WpfApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp\\MainWindow.xaml",
+              "ToolTip": "D:\\AmrahovSalman\\SupportITTesting\\WpfApp13.03.2026\\WpfApp\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-13T07:28:53.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\AmrahovSalman\\SupportITTesting\\WpfApp13.03.2026\\WpfApp\\AuthService.cs",
+              "RelativeDocumentMoniker": "WpfApp\\AuthService.cs",
+              "ToolTip": "D:\\AmrahovSalman\\SupportITTesting\\WpfApp13.03.2026\\WpfApp\\AuthService.cs",
+              "RelativeToolTip": "WpfApp\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T07:43:58.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\AmrahovSalman\\SupportITTesting\\WpfApp13.03.2026\\WpfApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\AmrahovSalman\\SupportITTesting\\WpfApp13.03.2026\\WpfApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T07:28:52.728Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
